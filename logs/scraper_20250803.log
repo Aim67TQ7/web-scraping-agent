@@ -1,0 +1,47 @@
+2025-08-03 03:58:35 - src.scraper - INFO - Fetching: https://www.thekansan.com
+2025-08-03 03:58:36 - src.scraper - INFO - Successfully fetched: https://www.thekansan.com (Status: 200)
+2025-08-03 03:58:36 - __main__ - ERROR - Link extraction failed: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+2025-08-03 03:59:52 - __main__ - INFO - Initializing NewsArticleScraper for The Kansan
+2025-08-03 03:59:52 - src.scraper - INFO - Initialized NewsArticleScraper
+2025-08-03 03:59:52 - __main__ - INFO - Found 17 potential article URLs
+2025-08-03 03:59:52 - __main__ - INFO - Scraping article 1/10: https://www.thekansan.com/treasurer-responds-to-commission-travel-inquiry/
+2025-08-03 03:59:52 - src.scraper - INFO - Fetching: https://www.thekansan.com/treasurer-responds-to-commission-travel-inquiry/
+2025-08-03 03:59:53 - src.scraper - INFO - Successfully fetched: https://www.thekansan.com/treasurer-responds-to-commission-travel-inquiry/ (Status: 200)
+2025-08-03 03:59:53 - __main__ - INFO - Successfully scraped: Treasurer responds to commission travel inquiry - Newton Kansan
+2025-08-03 03:59:53 - __main__ - INFO - Scraping article 2/10: https://www.thekansan.com/hutchinson-kraken-seattle-hays-reach-semifinals/
+2025-08-03 03:59:53 - src.scraper - INFO - Fetching: https://www.thekansan.com/hutchinson-kraken-seattle-hays-reach-semifinals/
+2025-08-03 03:59:55 - src.scraper - INFO - Successfully fetched: https://www.thekansan.com/hutchinson-kraken-seattle-hays-reach-semifinals/ (Status: 200)
+2025-08-03 03:59:55 - __main__ - INFO - Successfully scraped: Hutchinson, Kraken, Seattle, Hays reach semifinals - Newton Kansan
+2025-08-03 03:59:55 - __main__ - INFO - Scraping article 3/10: https://www.thekansan.com/back-to-school-just-around-the-corner/
+2025-08-03 03:59:55 - src.scraper - INFO - Fetching: https://www.thekansan.com/back-to-school-just-around-the-corner/
+2025-08-03 03:59:56 - src.scraper - INFO - Successfully fetched: https://www.thekansan.com/back-to-school-just-around-the-corner/ (Status: 200)
+2025-08-03 03:59:56 - __main__ - INFO - Successfully scraped: Back to school just around the corner - Newton Kansan
+2025-08-03 03:59:56 - __main__ - INFO - Scraping article 4/10: https://www.thekansan.com/science-heroes-at-npl/
+2025-08-03 03:59:56 - src.scraper - INFO - Fetching: https://www.thekansan.com/science-heroes-at-npl/
+2025-08-03 03:59:58 - src.scraper - INFO - Successfully fetched: https://www.thekansan.com/science-heroes-at-npl/ (Status: 200)
+2025-08-03 03:59:58 - __main__ - INFO - Successfully scraped: Science Heroes at NPL - Newton Kansan
+2025-08-03 03:59:58 - __main__ - INFO - Scraping article 5/10: https://www.thekansan.com/feeling-dizzy-how-physical-therapy-can-help-you-find-your-balance/
+2025-08-03 03:59:58 - src.scraper - INFO - Fetching: https://www.thekansan.com/feeling-dizzy-how-physical-therapy-can-help-you-find-your-balance/
+2025-08-03 03:59:59 - src.scraper - INFO - Successfully fetched: https://www.thekansan.com/feeling-dizzy-how-physical-therapy-can-help-you-find-your-balance/ (Status: 200)
+2025-08-03 03:59:59 - __main__ - INFO - Successfully scraped: Feeling Dizzy? How Physical Therapy Can Help You Find Your Balance - Newton Kansan
+2025-08-03 03:59:59 - __main__ - INFO - Scraping article 6/10: https://www.thekansan.com/waymakers-keeps-going-after-pilot-project/
+2025-08-03 03:59:59 - src.scraper - INFO - Fetching: https://www.thekansan.com/waymakers-keeps-going-after-pilot-project/
+2025-08-03 04:00:01 - src.scraper - INFO - Successfully fetched: https://www.thekansan.com/waymakers-keeps-going-after-pilot-project/ (Status: 200)
+2025-08-03 04:00:01 - __main__ - INFO - Successfully scraped: ‘Waymakers’ keeps going after pilot project - Newton Kansan
+2025-08-03 04:00:01 - __main__ - INFO - Scraping article 7/10: https://www.thekansan.com/county-parks-planning-swinging-bridge-repair/
+2025-08-03 04:00:01 - src.scraper - INFO - Fetching: https://www.thekansan.com/county-parks-planning-swinging-bridge-repair/
+2025-08-03 04:00:02 - src.scraper - INFO - Successfully fetched: https://www.thekansan.com/county-parks-planning-swinging-bridge-repair/ (Status: 200)
+2025-08-03 04:00:02 - __main__ - INFO - Successfully scraped: County parks planning swinging bridge repair. - Newton Kansan
+2025-08-03 04:00:02 - __main__ - INFO - Scraping article 8/10: https://www.thekansan.com/through-the-lens-music-at-the-library/
+2025-08-03 04:00:02 - src.scraper - INFO - Fetching: https://www.thekansan.com/through-the-lens-music-at-the-library/
+2025-08-03 04:00:05 - src.scraper - INFO - Successfully fetched: https://www.thekansan.com/through-the-lens-music-at-the-library/ (Status: 200)
+2025-08-03 04:00:05 - __main__ - INFO - Successfully scraped: Through the lens: Music at the library - Newton Kansan
+2025-08-03 04:00:05 - __main__ - INFO - Scraping article 9/10: https://www.thekansan.com/foresters-top-lonestar-to-reach-nbc-semis/
+2025-08-03 04:00:05 - src.scraper - INFO - Fetching: https://www.thekansan.com/foresters-top-lonestar-to-reach-nbc-semis/
+2025-08-03 04:00:07 - src.scraper - INFO - Successfully fetched: https://www.thekansan.com/foresters-top-lonestar-to-reach-nbc-semis/ (Status: 200)
+2025-08-03 04:00:07 - __main__ - INFO - Successfully scraped: Foresters top Lonestar to reach NBC semis - Newton Kansan
+2025-08-03 04:00:07 - __main__ - INFO - Scraping article 10/10: https://www.thekansan.com/kansas-profile-kevin-and-christina-miller-uneak-wood/
+2025-08-03 04:00:07 - src.scraper - INFO - Fetching: https://www.thekansan.com/kansas-profile-kevin-and-christina-miller-uneak-wood/
+2025-08-03 04:00:08 - src.scraper - INFO - Successfully fetched: https://www.thekansan.com/kansas-profile-kevin-and-christina-miller-uneak-wood/ (Status: 200)
+2025-08-03 04:00:08 - __main__ - INFO - Successfully scraped: Kansas Profile: Kevin and Christina Miller, Uneak Wood - Newton Kansan
+2025-08-03 04:00:08 - __main__ - INFO - Saved 10 articles to data\thekansan_articles_20250803_040008.json

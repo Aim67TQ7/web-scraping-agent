@@ -1,0 +1,43 @@
+# Core scraping libraries
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+selenium==4.18.1
+
+# Async scraping
+aiohttp==3.9.3
+asyncio==3.4.3
+
+# Data handling
+pandas==2.2.0
+openpyxl==3.1.2
+
+# Database
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+
+# Rate limiting and retries
+ratelimit==2.2.1
+tenacity==8.2.3
+
+# User agent rotation
+fake-useragent==1.4.0
+
+# Proxy support
+requests[socks]==2.31.0
+
+# Logging and configuration
+python-dotenv==1.0.1
+colorlog==6.8.2
+
+# Data validation
+pydantic==2.5.3
+
+# CLI interface
+click==8.1.7
+rich==13.7.0
+
+# Testing
+pytest==8.0.0
+pytest-asyncio==0.23.3
+responses==0.24.1

@@ -1,0 +1,22 @@
+{
+  "url": "https://www.thekansan.com",
+  "title": "Home - Newton Kansan",
+  "status_code": 200,
+  "headers": {
+    "server": "nginx",
+    "date": "Sun, 03 Aug 2025 01:49:21 GMT",
+    "content-type": "text/html; charset=UTF-8",
+    "transfer-encoding": "chunked",
+    "set-cookie": "PHPSESSID=o4oba3frdjqt30retc7dgppcba; expires=Sat, 01-Nov-2025 01:49:21 GMT; Max-Age=7776000; path=/, SERVERID=; Expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/",
+    "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "pragma": "no-cache",
+    "link": "<https://www.thekansan.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.thekansan.com/wp-json/wp/v2/pages/46200>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.thekansan.com/>; rel=shortlink",
+    "x-fastcgi-cache": "BYPASS",
+    "strict-transport-security": "max-age=16000000; includeSubDomains; preload;",
+    "content-security-policy": "upgrade-insecure-requests;",
+    "x-content-type-options": "nosniff",
+    "connection": "close"
+  },
+  "encoding": "UTF-8"
+}
